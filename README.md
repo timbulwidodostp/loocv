@@ -1,6 +1,8 @@
 # loocv
 Leave-One-Out Cross-Validation Use loocv With STATA 18
 
+https://www.youtube.com/watch?v=PeNAOjmZT40
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
